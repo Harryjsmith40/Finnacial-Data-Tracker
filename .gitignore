@@ -1,2 +1,8 @@
 /Data/
+<<<<<<< Updated upstream
 /Planning.md
+=======
+__pycache__/
+*.pyc
+*.log
+>>>>>>> Stashed changes
